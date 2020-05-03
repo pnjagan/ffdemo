@@ -3,3 +3,8 @@ yarn object-inspect react-redux redux-saga @material-ui/core
 yarn add final-form react-final-form
 yarn add react-redux-promise-listener
 
+
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+

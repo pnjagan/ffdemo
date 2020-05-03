@@ -5,6 +5,12 @@ yarn add react-redux-promise-listener
 
 
 
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+  git config --local user.email "pnjagan@gmail.com"
+  git config --local user.name "Jagannathan N"
 
+
+after "git init"  , "git add -A" , "git commit -m"initial"
+rename the local master to "development" and then commit to remote.
+
+
+git push origin development
